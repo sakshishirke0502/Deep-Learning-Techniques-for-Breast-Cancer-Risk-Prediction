@@ -1,4 +1,5 @@
-# Deep-Learning-Techniques-for-Breast-Cancer-Risk-Prediction
+# Project Title  : Deep-Learning-Techniques-for-Breast-Cancer-Risk-Prediction 
+Team  : Sakshi Shirke , Janhavi Raskar , Shrawani Bhambare , Sakshi Singh 
 Deep learning techniques, particularly Convolutional Neural Networks (CNNs), are increasingly utilized for predicting breast cancer risk by analyzing medical imaging data. By automatically extracting intricate features from mammograms, CNNs enhance diagnostic accuracy and enable earlier detection of potential malignancies .
 By harnessing the power of AI, we can empower healthcare professionals to provide more accurate, efficient, and personalized care for breast cancer patients . 
 
